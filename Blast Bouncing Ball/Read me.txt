@@ -1,0 +1,7 @@
+1. Game name is Blast Bouncing Ball made By Hassan Riaz.
+2. I choose this game because i thought that this game is difficult then the other two and it has more proegramming. While i copied the assets.
+3. I faced Multiple hurdles firstly i develop it but then i feel that i should have import some assets when i import the assets i have to build everything agian, 
+   The text in ball create a large problem then i search on youtube and then i discover a sorting group tool, Cloud movement also take my time.
+4. No, I think I complete all the requirment.
+5.I tried my best in coding.
+6.
